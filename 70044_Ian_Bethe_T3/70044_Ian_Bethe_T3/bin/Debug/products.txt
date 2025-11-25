@@ -1,0 +1,12 @@
+T O-8364 $ Orange Tea $ LIDL $ 555
+H P-4015 $ Orange Tea $ ALDI $ 5.66
+O J-2749 $ Vistula $ University $ 22.44
+N R-2594 $ Orange tea $ aldi $ 4.66
+Q T-5875 $ Orange Tea $ LIDL $ 555
+I B-7693 $ Orange Tea $ LIDL $ 555
+G U-3280 $ FG $ GGG $ 9.66
+U P-4805 $ Orange Tea $ LIDL $ 555
+D X-5322 $ ian $ bethe $ 4.55
+T F-3968 $ lidl $ ian $ 1.33
+M X-7209 $ iajs $ d $ 3
+I N-8646 $ erica roth $ dfd $ 8
